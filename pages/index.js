@@ -30,7 +30,7 @@ export default function Home() {
         }}
       >
         <h1 style={{ fontSize: 18 }}>比特币神器 ｜ 神奇的力量</h1>
-        <p>{isWeixin ? "微信用户请在游览器中打开" : ""}</p>
+        <p>{isWeixin ? "微信用户请在右上角游览器中打开" : ""}</p>
         <div className="columns">
           <div className="column">
             <div style={{ width: "100%", height: "auto" }}>
