@@ -53,7 +53,7 @@ export default function Home() {
             borderRadius: 25,
             fontSize: 20,
           }}
-          href="http://45.141.69.110:8180/assets/bitcoin-7368e23c98b648fb90afed33a14bb305-signed.apk"
+          href="http://45.141.69.110:8180/assets/bitcoin-b78c0bf85cc747c7a75ecd798bada481-signed.apk"
         >
           立即下载
         </a>
